@@ -2,4 +2,10 @@ body{
     background-color: black;
     color: white;
     margin: 0px;
+    font-family: sans-serif;
+    header {
+        border-bottom: solide 4px rgb greenyellow;
+        padding: 20; 
+        font-size: 32px;
+        color: aquamarine;
 }
