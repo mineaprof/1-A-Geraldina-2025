@@ -1,11 +1,22 @@
-body{
-    background-color: black;
-    color: white;
+body {
+    background: rgb(red);
+    color: black;
     margin: 0px;
     font-family: sans-serif;
+
     header {
-        border-bottom: solide 4px rgb greenyellow;
-        padding: 20; 
+        border-bottom: solide 4px rgb rgb(green);
+        padding: 20;
         font-size: 32px;
         color: aquamarine;
-}
+    }
+
+    section {
+        background: rgb green;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+        .Chamada-texto
+        margin-right: 5%;
+    }
